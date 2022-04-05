@@ -1,0 +1,14 @@
+{
+    "name": "@silicon-soldier/erase-ts-types",
+    "author": {
+        "email": "SiliconSoldier@outlook.com.au",
+        "name": "Jordan Mele",
+        "url": "https://djmm.me/"
+    },
+    "version": "0.1.0",
+    "type": "module",
+    "exports": {
+        "default": "./mod.js",
+        "types": "./mod.d.ts"
+    }
+}

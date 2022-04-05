@@ -1,0 +1,12 @@
+[package]
+name = "eraser"
+version = "0.1.0"
+authors = ["Jordan Mele <SiliconSoldier@outlook.com.au>"]
+edition = "2021"
+rust-version = "1.59.0"
+
+[lib]
+crate-type = ["cdylib", "rlib"]
+
+[dependencies]
+wasm-bindgen = "0.2.79"

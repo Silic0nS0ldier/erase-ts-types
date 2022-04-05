@@ -1,0 +1,5 @@
+/target
+/pkg/*
+!/pkg/eraser.js
+!/pkg/eraser.d.ts
+!/pkg/eraser_bg.wasm.d.ts
