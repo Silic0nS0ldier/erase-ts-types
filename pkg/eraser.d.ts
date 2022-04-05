@@ -1,7 +1,7 @@
 /* tslint:disable */
 /* eslint-disable */
 /**
-* @param {string} ts_source
+* @param {string} source
 * @returns {string}
 */
-export function erase(ts_source: string): string;
+export function erase(source: string): string;
